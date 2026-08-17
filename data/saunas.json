@@ -12,7 +12,7 @@
       { "name": "성수역 루프 5km", "distanceKm": 5 },
       { "name": "서울숲 한 바퀴 3km", "distanceKm": 3 }
     ],
-    "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.123=성수사우나"
+    "formUrl": "https://forms.gle/DXV5AGXqNPtC7UCa6"
   },
   {
     "id": "sauna-hannam",
@@ -27,6 +27,6 @@
       { "name": "한강공원 7km", "distanceKm": 7 },
       { "name": "남산 루프 5km", "distanceKm": 5 }
     ],
-    "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.123=한남사우나"
+    "formUrl": "https://forms.gle/DXV5AGXqNPtC7UCa6"
   }
 ]
