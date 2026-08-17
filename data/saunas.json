@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sauna-seongsu",
+    "name": "성수 사우나 (가칭)",
+    "address": "서울특별시 성동구 성수동",
+    "lat": 37.5445,
+    "lng": 127.0558,
+    "hours": "05:00 - 22:00",
+    "facilities": ["사우나", "냉탕", "샤워", "탈의실"],
+    "wear": true,
+    "courses": [
+      { "name": "성수역 루프 5km", "distanceKm": 5 },
+      { "name": "서울숲 한 바퀴 3km", "distanceKm": 3 }
+    ],
+    "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.123=성수사우나"
+  },
+  {
+    "id": "sauna-hannam",
+    "name": "한남 사우나 (가칭)",
+    "address": "서울특별시 용산구 한남동",
+    "lat": 37.5361,
+    "lng": 127.0012,
+    "hours": "05:00 - 22:00",
+    "facilities": ["사우나", "냉탕", "샤워", "탈의실"],
+    "wear": true,
+    "courses": [
+      { "name": "한강공원 7km", "distanceKm": 7 },
+      { "name": "남산 루프 5km", "distanceKm": 5 }
+    ],
+    "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.123=한남사우나"
+  }
+]
